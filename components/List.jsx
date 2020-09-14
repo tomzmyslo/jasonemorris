@@ -10,13 +10,13 @@ function List() {
   return(
     <ul className={styles}>
       <li>
-        Ensure quality education for all students with an emphasis on career &amp; technical training
+        Ensuring quality education for all students with an emphasis on career &amp; technical training
       </li>
       <li>
-        Foster safe &amp; secure schools where students needs are seen, heard &amp; met
+        Fostering safe &amp; secure schools where students needs are seen, heard &amp; met
       </li>
       <li>
-        Create pathways to success for black & brown young men through strong social-emotional supports
+        Creating pathways to success for black & brown young men through strong social-emotional supports
       </li>
     </ul>
   );
