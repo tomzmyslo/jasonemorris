@@ -32,7 +32,6 @@ function Hero() {
           />
           <Rule container={false} />
           <List />
-          
         </div>
       </div>
     </div>

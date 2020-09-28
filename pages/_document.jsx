@@ -13,7 +13,7 @@ class MyDocument extends Document {
                 appId: '767113464151084',
                 xfbml: true,
                 version: 'v8.0'
-              });
+              })
               FB.AppEvents.logPageView();
             };
 
