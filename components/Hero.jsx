@@ -26,6 +26,11 @@ function Hero() {
           </p>
           <Rule container={false} />
           <List />
+          <div className="fb-page" data-href="https://www.facebook.com/JasonMorris4KPS-103854908123702/" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+            <blockquote cite="https://www.facebook.com/JasonMorris4KPS-103854908123702/" className="fb-xfbml-parse-ignore">
+              <a href="https://www.facebook.com/JasonMorris4KPS-103854908123702/">JasonMorris4KPS</a>
+            </blockquote>
+          </div>
         </div>
       </div>
     </div>
