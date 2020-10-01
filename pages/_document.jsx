@@ -9,14 +9,18 @@ class MyDocument extends Document {
         <body>
           <div id="fb-root" />
           <script>
-            window.fbAsyncInit = function() {
+            window.fbAsyncInit = function() 
+            {' '}
+            {
+              // eslint-disable-next-line no-undef
               FB.init({
-                appId            : 'your-app-id',
+                appId: '767113464151084',
                 autoLogAppEvents : true,
-                xfbml            : true,
-                version          : 'v8.0'
-              }
-            };
+                xfbml: true,
+                version: 'v8.0'
+              })
+            }
+            ;
           </script>
           <script
             async
