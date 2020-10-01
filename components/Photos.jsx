@@ -6,7 +6,7 @@ function Photos() {
   return(
     <div className="container">
       <div className="row">
-        {photos.map((photo) => {
+        {photos.reverse().map((photo) => {
           return(
             <div key={photo.id} className="col-lg-4 mb-3">
               <Card
