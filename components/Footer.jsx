@@ -23,14 +23,14 @@ function Footer() {
         </div>
         <Rule container={false} light />
         <div className="row text-light pb-4">
-          <div className="col-md-6">
+          <div className="col-6">
             <small>
               {`© ${year} Friends of Jason Morris.`}
               <br />
               All rights reserved.
             </small>
           </div>
-          <div className="col-md-6 text-right">
+          <div className="col-6 text-right">
             <ul className="list-inline">
               <li className="list-inline-item mr-3">
                 <Link href="https://www.facebook.com/JasonMorris4KPS-103854908123702">
