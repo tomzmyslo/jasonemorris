@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import Rule from './Rule';
 import Vote from './Vote';
 
@@ -34,22 +35,24 @@ function Footer() {
             <ul className="list-inline">
               <li className="list-inline-item mr-3">
                 <Link href="https://www.facebook.com/JasonMorris4KPS-103854908123702">
-                  <a target="blank">
-                    <img
+                  <a target="blank" rel="noopener noreferrer">
+                    <Image
                       alt="Connect with JasonMorris4KPS on Facebook"
-                      src="images/f_logo_white.svg"
+                      src="/images/f_logo_white.svg"
                       width="40"
+                      height="40"
                     />
                   </a>
                 </Link>
               </li>
               <li className="list-inline-item">
                 <Link href="http://m.me/103854908123702">
-                  <a target="blank">
-                    <img
+                  <a target="blank" rel="noopener noreferrer">
+                    <Image
                       alt="Connect with JasonMorris4KPS on Messenger"
-                      src="images/m_logo_white.svg"
+                      src="/images/m_logo_white.svg"
                       width="40"
+                      height="40"
                     />
                   </a>
                 </Link>

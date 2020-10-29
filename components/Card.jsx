@@ -1,12 +1,14 @@
 import React from 'react';
+import Image from 'next/image';
 
 function Card({source, title, caption}) {
   return(
     <div className="card">
-      <img
+      <Image
         src={source}
         className="card-img-top"
         alt={title}
+        unsized
       />
       <div className="card-body">
         <h5 className="card-title text-capitalize">{title}</h5>

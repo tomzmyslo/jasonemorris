@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 import List from './List';
 import Rule from './Rule';
 
@@ -7,10 +8,11 @@ function Hero() {
     <div className="container">
       <div className="row">
         <div className="col-md-6 pt-0 px-3 pb-3">
-          <img
-            src="images/jason-morris-portrait.jpg"
+          <Image
+            src="/images/jason-morris-portrait.jpg"
             className="img-fluid img-thumbnail"
             alt="Jason Morris Portrait"
+            unsized
           />
         </div>
         <div className="col-md-6 text-center">
