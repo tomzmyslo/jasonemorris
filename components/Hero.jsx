@@ -12,7 +12,8 @@ function Hero() {
             src="/images/jason-morris-portrait.jpg"
             className="img-fluid img-thumbnail"
             alt="Jason Morris Portrait"
-            unsized
+            width="1000"
+            height="1073"
           />
         </div>
         <div className="col-md-6 text-center">

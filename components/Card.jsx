@@ -8,7 +8,8 @@ function Card({source, title, caption}) {
         src={source}
         className="card-img-top"
         alt={title}
-        unsized
+        width="720"
+        height="420"
       />
       <div className="card-body">
         <h5 className="card-title text-capitalize">{title}</h5>
