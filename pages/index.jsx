@@ -1,7 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
 import Navbar from '../components/Navbar';
-import Alert from '../components/Alert';
 import Hero from '../components/Hero';
 import Photos from '../components/Photos';
 import Rule from '../components/Rule';
@@ -16,7 +15,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
-      <Alert />
       <Hero />
       <Rule container />
       <Photos />
