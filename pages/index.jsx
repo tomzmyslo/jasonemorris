@@ -7,7 +7,7 @@ import Rule from '../components/Rule';
 import Footer from '../components/Footer';
 
 export default function Home() {
-  const title = 'Jason E. Morris | Re-Elect for Kalamazoo Public School Board';
+  const title = 'Jason E. Morris | Kalamazoo Public School Board';
   return (
     <main>
       <Head>
