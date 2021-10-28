@@ -17,7 +17,7 @@ function Footer() {
             <Vote />
           </div>
           <div className="col-md-7">
-            <p className="display-4 text-light text-capitalize font-italic">
+            <p className="display-4 text-light text-capitalize fst-italic">
               Committed to our district for the long term!
             </p>
           </div>
@@ -31,7 +31,7 @@ function Footer() {
               All rights reserved.
             </small>
           </div>
-          <div className="col-6 text-right">
+          <div className="col-6 text-end">
             <ul className="list-inline">
               <li className="list-inline-item mr-3">
                 <Link href="https://www.facebook.com/JasonMorris4KPS-103854908123702">

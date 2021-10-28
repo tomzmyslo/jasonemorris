@@ -6,7 +6,7 @@ function List() {
     // eslint-disable-next-line no-undef
     setWidth(window.innerWidth);
   });
-  const styles = width > 768 ? 'text-left lead' : 'text-left';
+  const styles = width > 768 ? 'text-start lead' : 'text-start';
   return(
     <ul className={styles}>
       <li>

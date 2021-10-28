@@ -5,7 +5,7 @@ function Navbar() {
     <div className="navbar navbar-dark" style={{backgroundColor: '#1A428A'}}>
       <div className="container">
         <a className="navbar-brand" href="/">Jason E. Morris</a>
-        <span className="text-light text-uppercase font-italic font-weight-bold">Vote For Experience</span>
+        <span className="text-light text-uppercase fst-italic fw-bold">Vote For Experience</span>
       </div>
     </div>
   );

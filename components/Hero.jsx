@@ -17,10 +17,10 @@ function Hero() {
           />
         </div>
         <div className="col-md-6 mt-3 text-center">
-          <h1 className="mb-0 font-weight-bold">
+          <h1 className="mb-0 fw-bold">
             Jason E. Morris
           </h1>
-          <p className="font-weight-bold font-italic mb-0">for</p>
+          <p className="fw-bold font-italic mb-0">for</p>
           <p className="lead">
             Kalamazoo Public School Board
           </p>
