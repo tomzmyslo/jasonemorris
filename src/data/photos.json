@@ -21,12 +21,12 @@
     "id": 4,
     "source": "/images/glamour5-cropped.jpg",
     "title": "Learning Hub Endorsement",
-    "caption": "The new learning hubs will offer students access to WiFi, healthy snacks and meals, enrichment activities and mental health and wellness resources.<br><br>Read the mlive.com article <a href='https://www.mlive.com/news/kalamazoo/2020/09/kalamazoo-schools-to-launch-learning-hubs-for-online-students-in-need-of-extra-support.html' target='blank' rel='noopener noreferrer'>here</a>."
+    "caption": "The new learning hubs will offer students access to WiFi, healthy snacks and meals, enrichment activities and mental health and wellness resources.<br><br>Read the mlive.com article <a class='text-blue-600' href='https://www.mlive.com/news/kalamazoo/2020/09/kalamazoo-schools-to-launch-learning-hubs-for-online-students-in-need-of-extra-support.html' target='blank' rel='noopener noreferrer'>here</a>."
   },
   {
     "id": 5,
     "source": "/images/glamour6-cropped.jpg",
     "title": "KPS Family Facebook Group",
-    "caption": "The KPS Family Facebook group is a private group that gives our families a place to stay connected while our children attend Kalamazoo Public Schools.<br><br>To join the group, click <a href='https://www.facebook.com/groups/243393843222276' target='blank' rel='noopener noreferrer'>here</a>."
+    "caption": "The KPS Family Facebook group is a private group that gives our families a place to stay connected while our children attend Kalamazoo Public Schools.<br><br>To join the group, click <a class='text-blue-600' href='https://www.facebook.com/groups/243393843222276' target='blank' rel='noopener noreferrer'>here</a>."
   }
 ]
